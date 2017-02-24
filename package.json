@@ -1,0 +1,27 @@
+{
+  "name": "upftp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ftp-deploy": "latest",
+    "fs": "latest",
+    "mkdirp": "latest",
+    "rmdir": "latest",
+    "ncp": "latest",
+    "events": "latest"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myazarc/upftp.git"
+  },
+  "author": "Mustafa Yazar <myazarc@gmail.com> (http://myazarc.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myazarc/upftp/issues"
+  },
+  "homepage": "https://github.com/myazarc/upftp#readme"
+}
